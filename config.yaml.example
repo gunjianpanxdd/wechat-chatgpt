@@ -1,6 +1,6 @@
 chatGPTAccountPool:
-  - email: email
-    password: password
-    isGoogleLogin: false
+  - email: 393184181@qq.com
+    password: 5219321huo
+    isGoogleLogin: true
 chatPrivateTiggerKeyword: ""
 openAIProxy: ""
